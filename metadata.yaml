@@ -1,0 +1,23 @@
+_repo: The-Lincoln-Country-in-Pictures_56210
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Frazier, Rosalie
+    gutenberg_agent_id: '48728'
+    url: http://www.gutenberg.org/2009/agents/48728
+  - agent_name: Frazier, Carl
+    gutenberg_agent_id: '48727'
+    url: http://www.gutenberg.org/2009/agents/48727
+description: ''
+gutenberg_issued: '2017-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Lincoln Country in Pictures
+url: http://www.gutenberg.org/ebooks/56210
